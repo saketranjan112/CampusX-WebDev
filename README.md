@@ -1,2 +1,2 @@
-# CampusX-WebDev
-Web Development daily assignments and mini projects.
+# CampusX-WebDev-HTML
+HTML daily assignments and mini projects.
